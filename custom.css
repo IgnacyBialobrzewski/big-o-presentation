@@ -1,0 +1,30 @@
+/* custom.css */
+/* @theme custom */
+
+@import "default";
+
+h1 {
+	font-weight: bold;
+	font-size: 2em;
+	color: #5e5086;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #333;
+}
+
+pre {
+	flex: 1;
+}
+
+section.lead {
+	text-align: center;
+}
+
+section.lead h1 {
+	font-size: 2.5em;
+}
